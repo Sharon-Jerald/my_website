@@ -26,7 +26,7 @@
             <a class="nav-link" href="academics.php">Academics</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="reg.html">Log in</a>
+            <a class="nav-link" href="reg.php">Log in</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
